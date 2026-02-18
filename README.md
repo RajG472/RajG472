@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 Junior @ California High School<br>💻 Knowledgeable in Python, Java, HTML & CSS<br>📈 Data Analysis & Problem Solving<br>🥁 Performing Drummer<br>🎵 DJ & Music Producer<br><br>🎨 Artist<br>
+📖 Junior @ California High School<br>💻 Knowledgeable in Python, Java, HTML & CSS<br>📈 Data Analysis & Problem Solving<br>🥁 Performing Drummer<br>🎵 DJ & Music Producer<br>🎨Artist<br>
 
 
 ## 🌐 Socials:
